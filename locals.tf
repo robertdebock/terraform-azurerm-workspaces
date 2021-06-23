@@ -12,4 +12,3 @@ locals {
   }
   location  = local.workspace_location_map[terraform.workspace].location
 }
-
